@@ -1,0 +1,9 @@
+.user-card{
+    background-color: rgb(76, 76, 76);
+    border-radius: 25px;
+    color: white;
+    padding: 25px;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 10px;
+}
